@@ -1,5 +1,3 @@
-module.exports = navigableTable
-
 function navigableTable ($) {
   // NAVIGABLE TABLE CLASS DEFINITION
   // ================================
